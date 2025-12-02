@@ -182,16 +182,6 @@ const heasma = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Heasma/Heasma/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💖 Show some ❤️ by starring some of the repositories!
